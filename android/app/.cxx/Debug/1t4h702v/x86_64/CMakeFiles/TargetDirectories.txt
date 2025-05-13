@@ -1,0 +1,2 @@
+/Users/s.evgeniya/Desktop/apptours/android/app/.cxx/Debug/1t4h702v/x86_64/CMakeFiles/edit_cache.dir
+/Users/s.evgeniya/Desktop/apptours/android/app/.cxx/Debug/1t4h702v/x86_64/CMakeFiles/rebuild_cache.dir

@@ -1,6 +1,5 @@
 import 'dart:math';
 
-import 'package:carousel_slider/carousel_slider.dart';
 import 'package:flutter/cupertino.dart' hide Route;
 import 'package:flutter/material.dart' hide Route;
 import 'package:flutter_markdown/flutter_markdown.dart' as fmd;
@@ -8,6 +7,7 @@ import 'package:flutter_markdown/flutter_markdown.dart';
 import 'package:flutter_mobx/flutter_mobx.dart';
 import 'package:just_audio/just_audio.dart';
 import 'package:rxdart/rxdart.dart';
+import 'package:carousel_slider_plus/carousel_slider_plus.dart';
 import 'package:audio_session/audio_session.dart';
 import 'package:apptours/app/home/controllers/hex_color.dart';
 import 'package:apptours/app/home/controllers/routes_controller.dart';
